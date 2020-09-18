@@ -1,0 +1,4 @@
+/.idea
+/dashboard/__pycache__
+/dashboard/migrations/__pycache__
+/django_reporting_project/__pycache__
